@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en" ng-app>
+<head>
+  <meta charset="utf-8">
+  <title>01-MVC</title>
+  <script src="../lib/angular.js"></script>
+  <script src="js/controllers.js"></script>
+</head>
+<body ng-controller="CatListCtrl">
+ 
+  <ul>
+    <li ng-repeat="cat in cats">
+      {{cat.breed}}
+      <p>Country: {{cat.country}}</p>
+    </li>
+  </ul>
+</body>
+</html>

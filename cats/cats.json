@@ -1,0 +1,32 @@
+[
+    {
+        "breed": "Abyssinian",
+        "country": "Egypt",
+        "imageUrl": "img/cats/168px-Gustav_chocolate.jpg"
+    }, 
+    {
+        "breed": "Aegean cat",
+        "country": "Greece",
+        "imageUrl": "img/cats/Aegean_cat.jpg"
+    }, 
+    {
+        "breed": "Australian mist",
+        "country": "Australia",
+        "imageUrl": "img/cats/236px-Australian_Mist.jpg"
+    }, 
+    {
+        "breed": "American Curl",
+        "country": "United states",
+        "imageUrl": "img/cats/320px-American_curl_2.jpg"
+    }, 
+    {
+        "breed": "Asian Semi-longhair",
+        "country": "Great Britain",
+        "imageUrl": "img/cats/199px-Tiffanie_at_cat_show.jpg"
+    }, 
+    {
+        "breed": "Bengal",
+        "country": "United States",
+        "imageUrl": "img/cats/BengalCat_Stella.jpg"
+    }
+]

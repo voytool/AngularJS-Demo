@@ -1,0 +1,5 @@
+<div class="kitten">
+  {{catBreed}}
+  <p>Country: {{catCountry}}</p>
+  <img src="{{catImg}}"/>
+</div>
